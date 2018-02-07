@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidmap</string>
+    <string name="title_activity_index">Map</string>
+</resources>
